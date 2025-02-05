@@ -1,0 +1,13 @@
+name: responsive_spacing
+description: A Flutter package for responsive spacing using SizedBox with relative screen height and width.
+version: 1.0.0
+homepage: https://github.com/yourusername/responsive_spacing
+repository: https://github.com/yourusername/responsive_spacing
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
